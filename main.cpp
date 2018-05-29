@@ -144,7 +144,7 @@ int main() {
 			{
 				//輸入錯誤則當天不做事
 				printf(	"\n"
-				 		"Princess %s keeps idle today. Nothing happens.\n", player.Name);
+						"Princess %s keeps idle today. Nothing happens.\n", player.Name);
 			}
 			system("pause");
 			system("cls");		//清空顯示 
